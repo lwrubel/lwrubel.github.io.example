@@ -3,16 +3,16 @@ layout: resume
 ---
 ## Currently
 
-Software development librarian in George Washington University Libraries, Scholarly Technology Group. 
+Software development librarian at George Washington University Libraries, Scholarly Technology Group. 
 
 ## Education
 
-`1997 - 1999`
-__University of Maryland__
-Masters in Library Science 
+`1997 - 1999` 
+__University of Maryland__ 
+Masters of Library Science  
 
-`1993 - 1997`
-__College of William & Mary__
+`1993 - 1997` 
+__College of William & Mary__ 
 B.A. Art History
 
 
