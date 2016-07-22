@@ -7,18 +7,14 @@ Software development librarian in George Washington University Libraries, Schola
 
 ## Education
 
-`1990 - 1994`
-__University Name__
-Degree Awarded
+`1997 - 1999`
+__University of Maryland__
+Masters in Library Science 
 
-`1995 - 1997`
-__University Name__
-Degree Awarded 
+`1993 - 1997`
+__College of William & Mary__
+B.A. Art History
 
-## Awards
-
-`2012`
-Name of Award, Organization 
 
 ## Publications
 
