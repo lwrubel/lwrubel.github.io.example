@@ -1,17 +1,17 @@
 # Site wide configuration
 
-title:            Site Title
+title:            Laura Wrubel
 locale:           en_US
 logo:
 url:		
 # Enter the following platform usernames if you would like for them to appear on your site.
 owner:
-  name: Your Name
+  name: Laura Wrubel
   avatar: bio-photo.jpg
-  bio: "A brief description of yourself."
-  email: #emailaddress
+  bio: "Software development librarian"
+  email: lwrubel@gwu.edu
   disqus-shortname:
-  twitter: #username
+  twitter: @liblaura
   facebook: #username
   google:
     plus: #username
@@ -20,7 +20,7 @@ owner:
     ad-client:
     ad-slot:
   bing-verify:
-  github: #username
+  github: lwrubel
   stackoverflow: #123456/username from a "http://stackoverflow.com/users/123456/username" link
   linkedin: #username
   xing: #username
@@ -32,7 +32,7 @@ owner:
   steam: #username
   dribbble: #username
   youtube: #username
-  soundcloud: #username
+  soundcloud: laurasaurus
   weibo: #username
   flickr: #username
   codepen: #username
