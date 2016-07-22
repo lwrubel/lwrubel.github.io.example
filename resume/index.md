@@ -3,7 +3,7 @@ layout: resume
 ---
 ## Currently
 
-Current Position Description
+Software development librarian in George Washington University Libraries, Scholarly Technology Group. 
 
 ## Education
 
@@ -50,21 +50,20 @@ Presentation Title, Conference, <a href="http://MyWebsite.tld/presentation1">Lin
 ## Occupation
 
 `Current`
-__Current Job Title__, Current Employer 
+__Software Development Librarian__, George Washington University Libraries, Washington, DC
 
-- Task
-- Task
+- Make it possible
 
-`1994-1996`
-__Current Job Title__, Current Employer 
+`2000-2010`
+__E-Resources and Systems Librarian__, University of Maryland Libraries, College Park, MD
 
-- Task
-- Task
+- Support stuff in Maryland
+
 
 
 
 <!-- ### Footer
 
-Last updated: May 2013 -->
+Last updated: July 2016 -->
 
 
