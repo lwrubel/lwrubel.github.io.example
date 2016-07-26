@@ -15,6 +15,7 @@ __University of Maryland__
 Masters of Library Science  
 
 
+
 `1993 - 1997`
 
 __College of William & Mary__
@@ -30,9 +31,11 @@ B.A. Art History
 Dan Kerchner, Justin Littman, Christie Peterson, Vakil Smallen, Rachel Trent,  “Social media harvesting as a form of web archiving,” International Journal of Digital Libraries.  (accepted, in revision, to be published Winter 2016-2017)
 
 
+
 `2014`
 
 Daniel Chudnov, Daniel Kerchner, Ankushi Sharma, and Laura Wrubel, [“Technical Challenges in Developing Software to Collect Twitter Data”](http://journal.code4lib.org/articles/10097), Code4Lib Journal 26 (Oct 21, 2014).
+
 
 
 `2007`
@@ -40,7 +43,9 @@ Daniel Chudnov, Daniel Kerchner, Ankushi Sharma, and Laura Wrubel, [“Technical
 Laura Wrubel and Kari Schmidt, [“Usability Testing of a Metasearch Interface: A Case Study,”](http://crl.acrl.org/content/68/4/292.full.pdf+html) College & Research Libraries 68 (Jul 2007): 292-311.
 
 
+
 Laura Wrubel, “Improving Access to Electronic Resources Through Usability Testing,” chapter in *Electronic Resources Librarianship and Management of Digital Information: Emerging Professional Roles.* (New York: Haworth Press, 2007). 
+
 
 
 `1999`
@@ -68,9 +73,11 @@ Laura Wrubel and Jason Casden, [“Building and Managing Social Media Collection
 “Collecting Social Media Data with Social Feed Manager”, with Dan Chudnov and Dan Kerchner, preconference at Code4Lib Conference, Raleigh, NC, Mar 24, 2014.
 
 
+
 `2013`
 
 “Capturing The Ephemeral: Collecting Social Media And Supporting Twitter Research With Social Feed Manager”, with Dan Chudnov, Bergis Jules, and Dan Kerchner, presentation at the Coalition for Networked Information (CNI) Meeting, Washington, DC, Dec 9, 2013.
+
 
 
 `2011`
@@ -78,9 +85,12 @@ Laura Wrubel and Jason Casden, [“Building and Managing Social Media Collection
 “Experiences from the Field: Choosing a Discovery Tool for Your Unique Library”, panel presentation at Charleston Conference with Jennifer Castaldo, Christine Dulaney, and Doralyn Rossman, Nov 3, 2011.
 
 
+
 `2007`
 
  “Optimizing SFX in the Catalog,” poster session with Linda Seguin at the annual meeting of the Ex Libris Users of North American (ELUNA), Spearfish, SD, Jun 6-8, 2007. 
+
+
 
 `2006`
 
