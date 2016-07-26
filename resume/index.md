@@ -21,7 +21,7 @@ B.A. Art History
 ### Journals
 
 `2014`
-Daniel Chudnov, Daniel Kerchner, Ankushi Sharma and Laura Wrubel, [“Technical Challenges in Developing Software to Collect Twitter Data,”](http://journal.code4lib.org/articles/10097) Code4Lib Journal 26 (Oct 21, 2014).
+Daniel Chudnov, Daniel Kerchner, Ankushi Sharma and Laura Wrubel, [“Technical Challenges in Developing Software to Collect Twitter Data”](http://journal.code4lib.org/articles/10097), Code4Lib Journal 26 (Oct 21, 2014)
 
 `2007`
 Laura Wrubel and Kari Schmidt, [“Usability Testing of a Metasearch Interface: A Case Study,”](http://crl.acrl.org/content/68/4/292.full.pdf+html) College & Research Libraries 68 (Jul 2007): 292-311
