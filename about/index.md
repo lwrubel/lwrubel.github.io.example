@@ -10,7 +10,7 @@ I am a librarian and software developer in the Scholarly Technology Ground of th
 
 ## Current Interests and Projects:
 
-* Python 
-* Data wrangling
+* Python and Django
+* Helping the GW community with technology resources and skills 
 * Data sonification
 * Biking and music
