@@ -2,15 +2,15 @@
 layout: page
 title: About Me
 tags: [about, about me, me, ]
-modified: 2014-08-08T20:53:07.573882-04:00
+modified: 2016-10-26
 comments: true
 ---
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+I am a librarian and software developer in the Scholarly Technology Ground of the GW Libraries and work on a range of projects. Many of the applications I work on use Python and the Django web framework. I'm also part of a team providing consultations to students and faculty on programming and software development. I am currently the Principal Investigator on the grant from the National Historical Publications and Records Commission, "Building and Managing Social Media Collections".
 
 ## Current Interests and Projects:
 
-* Lorem ipsum dolor sit amet
-* Lorem ipsum dolor sit amet
-* DLorem ipsum dolor sit amet
-* Lorem ipsum dolor sit amet
+* Python 
+* Data wrangling
+* Data sonification
+* Biking and music
