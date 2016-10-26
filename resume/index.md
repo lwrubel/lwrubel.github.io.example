@@ -3,35 +3,32 @@ layout: resume
 ---
 ## Currently
 
-Software development librarian at George Washington University Libraries, Scholarly Technology Group. 
+Software development librarian at George Washington University Libraries, Scholarly Technology Group
 
 
 ## Education
-`1997 - 1999`
-__University of Maryland__
+`1997 - 1999`  
+__University of Maryland__  
 Masters of Library Science  
 
 
-`1993 - 1997`
-__College of William & Mary__
+`1993 - 1997`  
+__College of William & Mary__ 
 B.A. Art History
 
 
 ## Publications
 
-`2016`
+`2016`  
 
 Dan Kerchner, Justin Littman, Christie Peterson, Vakil Smallen, Rachel Trent,  “Social media harvesting as a form of web archiving,” International Journal of Digital Libraries.  (accepted, in revision, to be published Winter 2016-2017)
 
-
-
-`2014`
+`2014`  
 
 Daniel Chudnov, Daniel Kerchner, Ankushi Sharma, and Laura Wrubel, [“Technical Challenges in Developing Software to Collect Twitter Data”](http://journal.code4lib.org/articles/10097), Code4Lib Journal 26 (Oct 21, 2014).
 
 
-
-`2007`
+`2007`  
 
 Laura Wrubel and Kari Schmidt, [“Usability Testing of a Metasearch Interface: A Case Study,”](http://crl.acrl.org/content/68/4/292.full.pdf+html) College & Research Libraries 68 (Jul 2007): 292-311.
 
