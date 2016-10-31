@@ -12,8 +12,9 @@ __University of Maryland__
 Masters of Library Science  
 
 
+
 `1993 - 1997`  
-__College of William & Mary__ 
+__College of William & Mary__  
 B.A. Art History
 
 
@@ -23,9 +24,11 @@ B.A. Art History
 
 Dan Kerchner, Justin Littman, Christie Peterson, Vakil Smallen, Rachel Trent,  “Social media harvesting as a form of web archiving,” International Journal of Digital Libraries.  (accepted, in revision, to be published Winter 2016-2017)
 
+
 `2014`  
 
 Daniel Chudnov, Daniel Kerchner, Ankushi Sharma, and Laura Wrubel, [“Technical Challenges in Developing Software to Collect Twitter Data”](http://journal.code4lib.org/articles/10097), Code4Lib Journal 26 (Oct 21, 2014).
+
 
 
 `2007`  
@@ -108,16 +111,19 @@ Laura Wrubel and Jason Casden, [“Building and Managing Social Media Collection
 
 ## Occupation
 
-`Current`
-__Software Development Librarian__, George Washington University Libraries, Washington, DC
+`Current`  
+__Software Development Librarian__  
+George Washington University Libraries, Washington, DC
 
-- Make it possible
 
-`2000-2010`
-__E-Resources and Systems Librarian__, University of Maryland Libraries, College Park, MD
+`2000-2010`  
+__E-Resources and Systems Librarian__  
+University of Maryland Libraries, College Park, MD
 
-- Support stuff in Maryland
 
+`1999-2000`  
+__Reference and Systems Librarian__  
+GCI Information Services and Stanley Associates, at the U.S. Census Bureau
 
 
 
