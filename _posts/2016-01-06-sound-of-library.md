@@ -16,7 +16,7 @@ In brief, it was a fast, fun, and practical introduction to both data sonificati
 
 I’d like to describe a few experiments, one from this workshop and another more recently, that have me excited about data sonification.
 
-##Music from the circulation desk
+### Music from the circulation desk
 
 I brought to the hackfest a csv file with the number of circulation transactions each day for a year--July through June--created from our Voyager system’s circulation transactions logs. The values ranged from roughly 100-1000. With such a broad range, I chunked up the values into a smaller set from 10-100 corresponding to Sonic Pi’s numbering of notes as on a piano keyboard. However, the pitches were so wildly dispersed, that while it was easy to hear outliers, the arc of activity through the semester was hard to perceive. The notes just didn’t make sense to my ears.
 
