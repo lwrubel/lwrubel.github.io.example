@@ -12,10 +12,9 @@ __University of Maryland__
 Masters of Library Science  
 
 
-
 `1993 - 1997`  
 __College of William & Mary__  
-B.A. Art History
+B.A. Art History  
 
 
 ## Publications
@@ -108,8 +107,12 @@ Laura Wrubel and Jason Casden, [“Building and Managing Social Media Collection
 “National Museum of American Art Reference Desk: A Use Analysis of an Electronic Reference Service,” presentation with Marilyn Domas White at the Virtual Reference Desk Digital Reference Conference: Digital Reference in the New Millennium, Cambridge, MA, Oct. 14-15, 1999.
 
 
+## Skills
+Python, JavaScript, HTML/CSS, git/GitHub  
+Web frameworks: Django, Flask
 
-## Occupation
+
+## Employment History
 
 `Current`  
 __Software Development Librarian__  
@@ -123,7 +126,7 @@ University of Maryland Libraries, College Park, MD
 
 `1999-2000`  
 __Reference and Systems Librarian__  
-GCI Information Services and Stanley Associates, at the U.S. Census Bureau
+GCI Information Services and Stanley Associates, at the U.S. Census Bureau, Suitland, MD
 
 
 
