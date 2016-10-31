@@ -19,7 +19,7 @@ B.A. Art History
 
 ## Publications
 
-`2016`  
+`2016` 
 
 Dan Kerchner, Justin Littman, Christie Peterson, Vakil Smallen, Rachel Trent,  “Social media harvesting as a form of web archiving,” International Journal of Digital Libraries.  (accepted, in revision, to be published Winter 2016-2017)
 
@@ -27,7 +27,6 @@ Dan Kerchner, Justin Littman, Christie Peterson, Vakil Smallen, Rachel Trent,  �
 `2014`  
 
 Daniel Chudnov, Daniel Kerchner, Ankushi Sharma, and Laura Wrubel, [“Technical Challenges in Developing Software to Collect Twitter Data”](http://journal.code4lib.org/articles/10097), Code4Lib Journal 26 (Oct 21, 2014).
-
 
 
 `2007`  
@@ -50,7 +49,8 @@ Lori Goetsch, with Cindy Todd and Laura Sowers. SPEC Kit 251, Electronic Referen
 
 `2016`
 
-[“Social Feed Manager"](http://www.slideshare.net/lwrubel/social-feed-manager), presentation as part of panel “Social media, web archiving, and digital libraries”, at Web Archives and Digital Libraries workshop at JCDL 2016, June 22-23, 2016. 
+[“Social Feed Manager"](http://www.slideshare.net/lwrubel/social-feed-manager), presentation as part of panel “Social media, web archiving, and digital libraries”, at Web Archives and Digital Libraries workshop at JCDL 2016, June 22-23, 2016.
+
 
 Laura Wrubel, Dan Kerchner, Justin Littman, [“Social Feed Manager lightning talks”](https://docs.google.com/presentation/d/14LiqnLAKAI6H9t8gttIIzO0KnnFCTSrONML-ZEmuXDc/) at Archives Unleashed: Web Archive Datahon, Library of Congress, Washington, DC, June 15, 2016. 
 
@@ -99,22 +99,20 @@ Laura Wrubel and Jason Casden, [“Building and Managing Social Media Collection
  “Customizing MetaLib: Bringing Users into the Process,” presentation at the SFX/MetaLib Users Group Meeting (SMUG), Cambridge, MA, Jun 18, 2004.
 
 
- “Towards an Ideal Portal: USMAI’s Research Port,” presentation with Betty Day and Gretchen Hanson at the pre-conference “The Ideal Library Portal: Potentials & Solutions,” at the annual meeting of the Maryland Library Association, Ocean City, MD, May 5, 2004.
-
-
-`1999`
+`1999`  
 
 “National Museum of American Art Reference Desk: A Use Analysis of an Electronic Reference Service,” presentation with Marilyn Domas White at the Virtual Reference Desk Digital Reference Conference: Digital Reference in the New Millennium, Cambridge, MA, Oct. 14-15, 1999.
 
 
 ## Skills
-Python, JavaScript, HTML/CSS, git/GitHub  
-Web frameworks: Django, Flask
+
+Python, JavaScript, HTML/CSS, git/GitHub
+Django, Jupyter notebooks, Flask, Unix
 
 
 ## Employment History
 
-`Current`  
+`2010-Current`  
 __Software Development Librarian__  
 George Washington University Libraries, Washington, DC
 
@@ -132,6 +130,6 @@ GCI Information Services and Stanley Associates, at the U.S. Census Bureau, Suit
 
 <!-- ### Footer
 
-Last updated: July 2016 -->
+Last updated: November 2016 -->
 
 
