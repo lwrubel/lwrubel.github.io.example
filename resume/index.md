@@ -9,13 +9,12 @@ Software development librarian at George Washington University Libraries, Schola
 ## Education
 `1997 - 1999`  
 __University of Maryland__  
-Masters of Library Science  
-
+Masters of Library Science
 
 
 `1993 - 1997`  
 __College of William & Mary__  
-B.A. Art History  
+B.A. Art History
 
 
 ## Publications
