@@ -21,7 +21,7 @@ B.A. Art History
 
 `2016` 
 
-Dan Kerchner, Justin Littman, Christie Peterson, Vakil Smallen, Rachel Trent,  “Social media harvesting as a form of web archiving,” International Journal of Digital Libraries.  (accepted, in revision, to be published Winter 2016-2017)
+Dan Kerchner, Justin Littman, Christie Peterson, Vakil Smallen, Rachel Trent,  “Social media harvesting as a form of web archiving,” International Journal of Digital Libraries.  (accepted, in revision, to be published Winter 2016-2017)  
 
 
 `2014`  
@@ -34,9 +34,7 @@ Daniel Chudnov, Daniel Kerchner, Ankushi Sharma, and Laura Wrubel, [“Technical
 Laura Wrubel and Kari Schmidt, [“Usability Testing of a Metasearch Interface: A Case Study,”](http://crl.acrl.org/content/68/4/292.full.pdf+html) College & Research Libraries 68 (Jul 2007): 292-311.
 
 
-
 Laura Wrubel, “Improving Access to Electronic Resources Through Usability Testing,” chapter in *Electronic Resources Librarianship and Management of Digital Information: Emerging Professional Roles.* (New York: Haworth Press, 2007). 
-
 
 
 `1999`
@@ -44,12 +42,12 @@ Laura Wrubel, “Improving Access to Electronic Resources Through Usability Test
 Lori Goetsch, with Cindy Todd and Laura Sowers. SPEC Kit 251, Electronic Reference Service. (Washington, DC: Association of Research Libraries, Oct 1999).
 
 
-## Presentations
+## Selected Presentations
 
 
 `2016`
 
-[“Social Feed Manager"](http://www.slideshare.net/lwrubel/social-feed-manager), presentation as part of panel “Social media, web archiving, and digital libraries”, at Web Archives and Digital Libraries workshop at JCDL 2016, June 22-23, 2016.
+[“Social Feed Manager"](http://www.slideshare.net/lwrubel/social-feed-manager), presentation as part of panel “Social media, web archiving, and digital libraries”, at Web Archives and Digital Libraries workshop at JCDL 2016, June 22-23, 2016.  
 
 
 Laura Wrubel, Dan Kerchner, Justin Littman, [“Social Feed Manager lightning talks”](https://docs.google.com/presentation/d/14LiqnLAKAI6H9t8gttIIzO0KnnFCTSrONML-ZEmuXDc/) at Archives Unleashed: Web Archive Datahon, Library of Congress, Washington, DC, June 15, 2016. 
@@ -57,7 +55,7 @@ Laura Wrubel, Dan Kerchner, Justin Littman, [“Social Feed Manager lightning ta
 
 `2015`
 
-Laura Wrubel and Jason Casden, [“Building and Managing Social Media Collections”](http://www.slideshare.net/casden/building-and-managing-social-media-collections), Digital Libraries Federation (DLF) Forum workshop, Vancouver, BC, October 27, 2015. Tw0-hour workshop that walked participants through technical, ethical, and policy aspects of collecting social media in a cultural heritage organization. 
+Laura Wrubel and Jason Casden, [“Building and Managing Social Media Collections”](http://www.slideshare.net/casden/building-and-managing-social-media-collections), Digital Libraries Federation (DLF) Forum workshop, Vancouver, BC, October 27, 2015. Tw0-hour workshop that walked participants through technical, ethical, and policy aspects of collecting social media in a cultural heritage organization.
 
 
 `2014`
@@ -81,12 +79,6 @@ Laura Wrubel and Jason Casden, [“Building and Managing Social Media Collection
 `2007`
 
  “Optimizing SFX in the Catalog,” poster session with Linda Seguin at the annual meeting of the Ex Libris Users of North American (ELUNA), Spearfish, SD, Jun 6-8, 2007. 
-
-
-
-`2006`
-
- “Sixteen in One: Implementing SFX in the Aleph Catalog,” panel presentation with Betty Day, Jean Phillips, Linda Seguin, and Marlene Vikor at the Ex Libris Users of North America (ELUNA) Annual Meeting, Knoxville, TN, Jun 6, 2006.
 
 
 `2005`
