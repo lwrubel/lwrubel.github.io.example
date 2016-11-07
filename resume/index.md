@@ -53,7 +53,7 @@ Laura Wrubel, “Improving Access to Electronic Resources Through Usability Test
 
 ## Skills
 
-Python, JavaScript, HTML/CSS, git/GitHub
+Python, JavaScript, HTML/CSS, git/GitHub  
 Django, Jupyter notebooks, Unix
 
 
