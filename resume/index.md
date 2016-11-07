@@ -19,30 +19,18 @@ B.A. Art History
 
 ## Publications
 
-`2016` 
+`2016` Dan Kerchner, Justin Littman, Christie Peterson, Vakil Smallen, Rachel Trent,  “Social media harvesting as a form of web archiving,” International Journal of Digital Libraries.  (accepted, in revision, to be published Winter 2016-2017)  
 
-Dan Kerchner, Justin Littman, Christie Peterson, Vakil Smallen, Rachel Trent,  “Social media harvesting as a form of web archiving,” International Journal of Digital Libraries.  (accepted, in revision, to be published Winter 2016-2017)  
+`2014` Daniel Chudnov, Daniel Kerchner, Ankushi Sharma, and Laura Wrubel, [“Technical Challenges in Developing Software to Collect Twitter Data”](http://journal.code4lib.org/articles/10097), Code4Lib Journal 26 (Oct 21, 2014).
 
-
-`2014`  
-
-Daniel Chudnov, Daniel Kerchner, Ankushi Sharma, and Laura Wrubel, [“Technical Challenges in Developing Software to Collect Twitter Data”](http://journal.code4lib.org/articles/10097), Code4Lib Journal 26 (Oct 21, 2014).
-
-
-`2007`  
-
-Laura Wrubel and Kari Schmidt, [“Usability Testing of a Metasearch Interface: A Case Study,”](http://crl.acrl.org/content/68/4/292.full.pdf+html) College & Research Libraries 68 (Jul 2007): 292-311.
+`2007` Laura Wrubel and Kari Schmidt, [“Usability Testing of a Metasearch Interface: A Case Study,”](http://crl.acrl.org/content/68/4/292.full.pdf+html) College & Research Libraries 68 (Jul 2007): 292-311.
 
 Laura Wrubel, “Improving Access to Electronic Resources Through Usability Testing,” chapter in *Electronic Resources Librarianship and Management of Digital Information: Emerging Professional Roles.* (New York: Haworth Press, 2007). 
 
-
-`1999`
-
-Lori Goetsch, with Cindy Todd and Laura Sowers. SPEC Kit 251, Electronic Reference Service. (Washington, DC: Association of Research Libraries, Oct 1999).
+`1999` Lori Goetsch, with Cindy Todd and Laura Sowers. SPEC Kit 251, Electronic Reference Service. (Washington, DC: Association of Research Libraries, Oct 1999).
 
 
 ## Selected Presentations
-
 
 `2016` [“Social Feed Manager"](http://www.slideshare.net/lwrubel/social-feed-manager), presentation as part of panel “Social media, web archiving, and digital libraries”, at Web Archives and Digital Libraries workshop at JCDL 2016, June 22-23, 2016.
 
