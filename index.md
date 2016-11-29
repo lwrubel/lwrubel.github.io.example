@@ -11,6 +11,10 @@ I am a librarian and software developer in the Scholarly Technology Group of the
 ## Current Interests and Projects:
 
 * Python and Django
-* Helping the GW community with technology resources and skills 
+* Building GW community technology resources and skills 
 * Data sonification
-* Biking and music
+
+### Test h3
+
+Test paragraph
+ 
