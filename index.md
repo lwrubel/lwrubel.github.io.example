@@ -13,8 +13,3 @@ I am a librarian and software developer in the Scholarly Technology Group of the
 * Python and Django
 * Building GW community technology resources and skills 
 * Data sonification
-
-### Test h3
-
-Test paragraph
- 
