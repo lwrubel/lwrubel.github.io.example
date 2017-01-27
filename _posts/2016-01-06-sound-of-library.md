@@ -5,6 +5,7 @@ excerpt: "Experiments with data sonification and library data"
 modified: 7/26/2016, 9:17
 tags: [data]
 comments: true
+category: blog
 ---
 
 Originally posted as ["The Sound of the Library at Work"](https://library.gwu.edu/scholarly-technology-group/posts/sound-library-work) on the GW Libraries Scholarly Technology Group blog. 
