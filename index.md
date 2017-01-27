@@ -1,9 +1,7 @@
 ---
-layout: home 
+layout: page 
 title: About Me
-tags: [about, about me, me, ]
 modified: 2016-11-04
-comments: true
 ---
 
 I am a librarian and software developer in the Scholarly Technology Group of the GW Libraries and work on a range of projects. Many of the applications I work on use Python and the Django web framework. I'm also part of a team providing consultations to students and faculty on programming and software development. I am currently the Principal Investigator on the grant from the National Historical Publications and Records Commission, "Building and Managing Social Media Collections".
@@ -11,5 +9,6 @@ I am a librarian and software developer in the Scholarly Technology Group of the
 ## Current Interests and Projects:
 
 * Python and Django
-* Building GW community technology resources and skills 
+* Social media archiving
+* Building the GW community's technology resources and skills 
 * Data sonification
